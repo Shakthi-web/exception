@@ -22,5 +22,6 @@ public class NumberFormat {
 		}
 		
 		System.out.println("thank you");
+		System.out.println("come Again");
 	}
 }
